@@ -19,7 +19,4 @@ function factorial($x)
 
 		return $output;
 	}
-
-$test = factorial(3);
-echo "$test";
 ?>
